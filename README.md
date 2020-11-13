@@ -36,4 +36,6 @@
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Semert&show_icons=true&title_color=1e8449&icon_color=229954&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semert&layout=compact)](https://github.com/Semert/github-readme-stats)
+
 [linkedin]: https://www.linkedin.com/in/mert-efe/
