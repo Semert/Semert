@@ -31,11 +31,12 @@
 
 <br />
 <br />
----
+
+<hr/>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Semert&show_icons=true&title_color=1e8449&icon_color=229954&hide_border=true" />
 
----
+<hr />
 
 [linkedin]: https://www.linkedin.com/in/mert-efe/
