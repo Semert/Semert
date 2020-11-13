@@ -34,6 +34,6 @@
 ---
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Semert&show_icons=true&title_color=00FF00&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Semert&show_icons=true&title_color=00ff00&icon_color=00ff00&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/mert-efe/
