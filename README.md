@@ -9,6 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Semert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Semert | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -37,6 +38,5 @@
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Semert&show_icons=true&title_color=1e8449&icon_color=229954&hide_border=true" />
 
-<hr />
-
 [linkedin]: https://www.linkedin.com/in/mert-efe/
+[gmail]: semert2121@gmail.com
