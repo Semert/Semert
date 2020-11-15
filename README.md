@@ -17,11 +17,11 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-00bd26?style=flat&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-00bd26?style=flat&logo=react)
-<img src="https://img.shields.io/badge/node.js%20-%030303.svg?&style=flat&logo=node.js%logoColor=black"/>
+<img src="https://img.shields.io/badge/node.js%20-%030303.svg?&style=flat&logo=node.js&logoColor=black"/>
 ![MongoDB](https://img.shields.io/badge/-Mongo-00bd26?style=flat&logo=mongo)
 <br/>
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![Python](https://img.shields.io/badge/-Python-00bd26?style=flat&logo=Python)
+![Java](https://img.shields.io/badge/-Java-00bd26?style=flat&logo=Java)
 <br/>
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
