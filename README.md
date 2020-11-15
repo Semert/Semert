@@ -17,7 +17,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-<img src="https://img.shields.io/badge/node.js%20-%000000.svg?&style=flat&logo=node.js"/>
+<img src="https://img.shields.io/badge/node.js%20-%030303.svg?&style=flat&logo=node.js"/>
 ![MongoDB](https://img.shields.io/badge/-Mongo-333333?style=flat&logo=mongo)
 <br/>
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
