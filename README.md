@@ -1,4 +1,4 @@
-### Hi there, I'm Semert - aka [Semert] 👋
+### Hi there, I'm Semert 👋
 
 ## I am a diligent, self-motivated, Developer, and Learner!!
 
