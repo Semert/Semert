@@ -2,7 +2,7 @@
 
 ## I am a diligent, self-motivated, Developer, and Learner!!
 
-- 🌱 I’m currently learning everything about React
+- 🌱 I’m currently learning everything about React & React Native
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to swim and play guitar
 
