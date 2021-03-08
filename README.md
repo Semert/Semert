@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Full-Stack Development. 
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Ask me anything about React, Node, Python
+- ⚡ Ask me anything about React, Node, Python, Flask
 
 ### Connect with me:
 
