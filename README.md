@@ -3,7 +3,7 @@
 ## I am a diligent, self-motivated, Developer, and Learner!!
 
 - 🌱 I’m currently learning Full-Stack Development. 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Ask me anything about React, Node, Python, Flask
 
 ### Connect with me:
