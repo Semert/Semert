@@ -1,4 +1,4 @@
-### Hi there, I'm Semert 👋
+### Hi there, I'm Semert 👋  (I use another account for the privacy of my current job)
 
 ## I am a diligent, self-motivated, Developer, and Learner!!
 
